@@ -1,28 +1,29 @@
 {
   "files": {
-    "main.css": "/LatinConnection/static/css/main.cfec43d3.chunk.css",
-    "main.js": "/LatinConnection/static/js/main.651a5c9a.chunk.js",
-    "main.js.map": "/LatinConnection/static/js/main.651a5c9a.chunk.js.map",
+    "main.css": "/LatinConnection/static/css/main.d09435ed.chunk.css",
+    "main.js": "/LatinConnection/static/js/main.0b2fdcfd.chunk.js",
+    "main.js.map": "/LatinConnection/static/js/main.0b2fdcfd.chunk.js.map",
     "runtime-main.js": "/LatinConnection/static/js/runtime-main.d4eb1ace.js",
     "runtime-main.js.map": "/LatinConnection/static/js/runtime-main.d4eb1ace.js.map",
-    "static/js/2.62e6924b.chunk.js": "/LatinConnection/static/js/2.62e6924b.chunk.js",
-    "static/js/2.62e6924b.chunk.js.map": "/LatinConnection/static/js/2.62e6924b.chunk.js.map",
+    "static/js/2.8fa49016.chunk.js": "/LatinConnection/static/js/2.8fa49016.chunk.js",
+    "static/js/2.8fa49016.chunk.js.map": "/LatinConnection/static/js/2.8fa49016.chunk.js.map",
     "index.html": "/LatinConnection/index.html",
-    "precache-manifest.516b224627fbc73b353ad7ad3706b94f.js": "/LatinConnection/precache-manifest.516b224627fbc73b353ad7ad3706b94f.js",
+    "precache-manifest.dc16b4bd10213f4a820031283f8995e6.js": "/LatinConnection/precache-manifest.dc16b4bd10213f4a820031283f8995e6.js",
     "service-worker.js": "/LatinConnection/service-worker.js",
-    "static/css/main.cfec43d3.chunk.css.map": "/LatinConnection/static/css/main.cfec43d3.chunk.css.map",
-    "static/js/2.62e6924b.chunk.js.LICENSE": "/LatinConnection/static/js/2.62e6924b.chunk.js.LICENSE",
+    "static/css/main.d09435ed.chunk.css.map": "/LatinConnection/static/css/main.d09435ed.chunk.css.map",
+    "static/js/2.8fa49016.chunk.js.LICENSE": "/LatinConnection/static/js/2.8fa49016.chunk.js.LICENSE",
     "static/media/Hero.jpg": "/LatinConnection/static/media/Hero.8d5a7f0d.jpg",
     "static/media/Lofts.jpg": "/LatinConnection/static/media/Lofts.0859a708.jpg",
     "static/media/brownstone.jpg": "/LatinConnection/static/media/brownstone.f9ed36b4.jpg",
+    "static/media/latinconnectionfav.png": "/LatinConnection/static/media/latinconnectionfav.05e3df99.png",
     "static/media/modern-lobby.jpg": "/LatinConnection/static/media/modern-lobby.64648572.jpg",
     "static/media/pool.jpg": "/LatinConnection/static/media/pool.4447401c.jpg",
     "static/media/reading.jpg": "/LatinConnection/static/media/reading.4a01219d.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.d4eb1ace.js",
-    "static/js/2.62e6924b.chunk.js",
-    "static/css/main.cfec43d3.chunk.css",
-    "static/js/main.651a5c9a.chunk.js"
+    "static/js/2.8fa49016.chunk.js",
+    "static/css/main.d09435ed.chunk.css",
+    "static/js/main.0b2fdcfd.chunk.js"
   ]
 }

@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dc339fc810ae5b34e8faf2c09c845e6a",
+    "revision": "37908fc70ff303a1e7ad502c8f395bdd",
     "url": "/LatinConnection/index.html"
   },
   {
-    "revision": "a8796709188fab73dad7",
-    "url": "/LatinConnection/static/css/main.cfec43d3.chunk.css"
+    "revision": "b4f156c7e66f39a05990",
+    "url": "/LatinConnection/static/css/main.d09435ed.chunk.css"
   },
   {
-    "revision": "cb3cbebd83559514d3fb",
-    "url": "/LatinConnection/static/js/2.62e6924b.chunk.js"
+    "revision": "3846f7cd359ca17db051",
+    "url": "/LatinConnection/static/js/2.8fa49016.chunk.js"
   },
   {
     "revision": "dd30ad2c00174e59bb32191ea757f584",
-    "url": "/LatinConnection/static/js/2.62e6924b.chunk.js.LICENSE"
+    "url": "/LatinConnection/static/js/2.8fa49016.chunk.js.LICENSE"
   },
   {
-    "revision": "a8796709188fab73dad7",
-    "url": "/LatinConnection/static/js/main.651a5c9a.chunk.js"
+    "revision": "b4f156c7e66f39a05990",
+    "url": "/LatinConnection/static/js/main.0b2fdcfd.chunk.js"
   },
   {
     "revision": "87efc7bdfa30485bed3a",
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f9ed36b4484cd731cad87d38899a2a72",
     "url": "/LatinConnection/static/media/brownstone.f9ed36b4.jpg"
+  },
+  {
+    "revision": "05e3df9952e658746dca09caf9ab7c76",
+    "url": "/LatinConnection/static/media/latinconnectionfav.05e3df99.png"
   },
   {
     "revision": "64648572090328df58e0f5b904101a46",
