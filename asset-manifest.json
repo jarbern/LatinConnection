@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/LatinConnection/static/css/main.fef28abd.chunk.css",
+    "main.css": "/LatinConnection/static/css/main.cfec43d3.chunk.css",
     "main.js": "/LatinConnection/static/js/main.651a5c9a.chunk.js",
     "main.js.map": "/LatinConnection/static/js/main.651a5c9a.chunk.js.map",
     "runtime-main.js": "/LatinConnection/static/js/runtime-main.d4eb1ace.js",
@@ -8,9 +8,9 @@
     "static/js/2.62e6924b.chunk.js": "/LatinConnection/static/js/2.62e6924b.chunk.js",
     "static/js/2.62e6924b.chunk.js.map": "/LatinConnection/static/js/2.62e6924b.chunk.js.map",
     "index.html": "/LatinConnection/index.html",
-    "precache-manifest.38e6663de5d70fa12f8492754f8ca8ae.js": "/LatinConnection/precache-manifest.38e6663de5d70fa12f8492754f8ca8ae.js",
+    "precache-manifest.516b224627fbc73b353ad7ad3706b94f.js": "/LatinConnection/precache-manifest.516b224627fbc73b353ad7ad3706b94f.js",
     "service-worker.js": "/LatinConnection/service-worker.js",
-    "static/css/main.fef28abd.chunk.css.map": "/LatinConnection/static/css/main.fef28abd.chunk.css.map",
+    "static/css/main.cfec43d3.chunk.css.map": "/LatinConnection/static/css/main.cfec43d3.chunk.css.map",
     "static/js/2.62e6924b.chunk.js.LICENSE": "/LatinConnection/static/js/2.62e6924b.chunk.js.LICENSE",
     "static/media/Hero.jpg": "/LatinConnection/static/media/Hero.8d5a7f0d.jpg",
     "static/media/Lofts.jpg": "/LatinConnection/static/media/Lofts.0859a708.jpg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.d4eb1ace.js",
     "static/js/2.62e6924b.chunk.js",
-    "static/css/main.fef28abd.chunk.css",
+    "static/css/main.cfec43d3.chunk.css",
     "static/js/main.651a5c9a.chunk.js"
   ]
 }
