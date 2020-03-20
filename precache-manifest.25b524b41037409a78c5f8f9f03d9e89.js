@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e03131f24c0905ee698c41494d4cc7cf",
+    "revision": "b2c1565bc80fb174262d10ab4efde41e",
     "url": "/LatinConnection/index.html"
   },
   {
-    "revision": "ff7b426b5527c6d3788e",
-    "url": "/LatinConnection/static/css/main.125ac8bd.chunk.css"
+    "revision": "be68c8c847561d16ac7c",
+    "url": "/LatinConnection/static/css/main.e1697ca3.chunk.css"
   },
   {
     "revision": "3846f7cd359ca17db051",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LatinConnection/static/js/2.8fa49016.chunk.js.LICENSE"
   },
   {
-    "revision": "ff7b426b5527c6d3788e",
+    "revision": "be68c8c847561d16ac7c",
     "url": "/LatinConnection/static/js/main.42c1e81b.chunk.js"
   },
   {
